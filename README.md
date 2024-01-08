@@ -1,12 +1,7 @@
-<script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
 
-<h1 align="center"><span id="element"></span></h1>
-<script>
-        var typed = new Typed('#element', {
-            strings: ['Hi 👋, I'm Karan Gulve'],
-            typeSpeed: 50,
-        });
-    </script>
+
+<h1 align="center">Hi 👋, I'm Karan Gulve</h1>
+
 <h3 align="center">A passionate Web Developer</h3>
 
 
