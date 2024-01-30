@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [portfolio-bappa.vercel.app](http://portfolio-bappa.vercel.app)
+- 👨‍💻 All of my projects are available at [KaranGulve4342.tech](http://portfolio-bappa.vercel.app)
 
 - 📫 How to reach me **karanpg2306@gmail.com**
 
