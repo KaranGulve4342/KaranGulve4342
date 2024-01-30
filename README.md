@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **karanpg2306@gmail.com**
 
-- 📄 Know about my experiences [https://collection.cloudinary.com/dngvge2sb/0719a020a6c4c536be65f407d14c7657?](https://collection.cloudinary.com/dngvge2sb/0719a020a6c4c536be65f407d14c7657?)
+- 📄 Know about my experiences [My Resume..](https://drive.google.com/file/d/1OSnViNwrHHAJdrWfzg0tHSNei-iiNRRP/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
