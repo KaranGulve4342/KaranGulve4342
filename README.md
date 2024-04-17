@@ -18,11 +18,11 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [KaranGulve4342.tech](http://portfolio-bappa.vercel.app)
+- 👨‍💻 All of my projects are available at [KaranGulve4342.tech](https://karan-portfolio-cyan.vercel.app)
 
 - 📫 How to reach me **karanpg2306@gmail.com**
 
-- 📄 Know about my experiences [My Resume..](https://drive.google.com/file/d/1OSnViNwrHHAJdrWfzg0tHSNei-iiNRRP/view?usp=sharing)
+- 📄 Know about my experiences [My Resume..](https://drive.google.com/file/d/17i4Lm3AJBlJFJ96dAJuxA_vSTHvjMpzB/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
