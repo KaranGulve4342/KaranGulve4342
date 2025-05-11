@@ -14,11 +14,9 @@
 
 <p align="left"> <a href="https://twitter.com/karangulve4342" target="blank"><img src="https://img.shields.io/twitter/follow/karangulve4342?logo=twitter&style=for-the-badge" alt="karangulve4342" /></a> </p>
 
-- 🔭 I’m currently working on **Customer services Web Portal**
+- 🌱 I’m currently learning **Cloud Technologies**
 
-- 🌱 I’m currently learning **Next.js**
-
-- 👨‍💻 All of my projects are available at [KaranGulve4342.tech](https://karan-portfolio-cyan.vercel.app)
+- 👨‍💻 All of my projects are available at [KaranGulve4342.tech](https://karangulve.vercel.app)
 
 - 📫 How to reach me **karanpg2306@gmail.com**
 
